@@ -35,7 +35,7 @@ main {
 
 .box-titulo {
   margin: 0 auto;
-  max-width: 400px;
+  max-width: 450px;
   padding-top: 60px;
 }
 
@@ -53,11 +53,12 @@ main {
 }
 
 .box-titulo p {
-  font-size: 0.825rem;
+  font-size: 0.937rem;
   font-weight: 200;
   color: var(--Grayish-Blue);
   text-align: center;
   padding-bottom: 60px;
+  max-width: 40rem;
 }
 
 .container-informacoes {

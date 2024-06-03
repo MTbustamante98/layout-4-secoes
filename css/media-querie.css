@@ -41,7 +41,7 @@
 
   .box-titulo p {
     margin: 0 auto;
-    max-width: 260px;
+    max-width: 33ch;
   }
 
   .container-informacoes {
