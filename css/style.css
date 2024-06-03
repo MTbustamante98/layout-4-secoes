@@ -35,16 +35,18 @@ main {
 
 .box-titulo {
   margin: 0 auto;
-  max-width: 450px;
+  max-width: 500px;
   padding-top: 60px;
 }
 
 .box-titulo h1 {
   color: var(--Grayish-Blue);
   text-align: center;
-  font-size: 1.75rem;
+  font-size: 2.2rem;
   font-weight: 200;
-  margin-bottom: 16px;
+  margin: 0 auto;
+  padding-bottom: 16px;
+  max-width: 25ch;
 }
 
 .box-titulo span {
@@ -54,11 +56,11 @@ main {
 
 .box-titulo p {
   font-size: 0.937rem;
-  font-weight: 200;
+  font-weight: 400;
   color: var(--Grayish-Blue);
   text-align: center;
   padding-bottom: 60px;
-  max-width: 40rem;
+  max-width: 60ch;
 }
 
 .container-informacoes {
